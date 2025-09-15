@@ -15,7 +15,11 @@ function App() {
         </p>
 
         <button>Click Here!</button>
-        <View>Hello, git task testing</View>
+        <Text>Hello, Test1 file changes</Text>
+        <Text>Hello, Test1 file commit 1</Text>
+        <Text>Hello, Test1 file commit 2</Text>
+        <Text>Hello, Test1 file commit 3</Text>
+
         <a
           className='App-link'
           href='https://reactjs.org'
