@@ -3,24 +3,23 @@ import './App.css';
 
 function App() {
   return (
-    <div className='App'>
-      <header className='App-header'>
-        <img src={logo} className='App-logo' alt='logo' />
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload.          
         </p>
         <p className='subHeading'>
-          Hey, this is Git Session & today is Tuesday 26th August. <br />
+          Hey, this is Git Session & today is Tuesday 26th August. <br/>
           And it's a beautiful sunny Day.
         </p>
 
         <button>Click Here!</button>
-        <View>Hello, git task testing</View>
         <a
-          className='App-link'
-          href='https://reactjs.org'
-          target='_blank'
-          rel='noopener noreferrer'
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Learn React
         </a>
