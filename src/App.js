@@ -16,7 +16,8 @@ function App() {
 
         <button>Click Here!</button>
         <Text>Hello, Test1 file changes</Text>
-        <Text>Hello, Test1 file cmmit 1</Text>
+        <Text>Hello, Test1 file commit 1</Text>
+        <Text>Hello, Test1 file commit 2</Text>
 
         <a
           className='App-link'
